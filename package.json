@@ -1,0 +1,17 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "main": "dist/rectangle.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "type": "commonjs"
+}
