@@ -3,10 +3,18 @@
   "version": "1.0.0",
   "main": "dist/rectangle.js",
   "license": "MIT",
-  "scripts": {
-    "build": "tsc",
-    "start": "node dist/index.js"
-  },
+"scripts": {
+  "build": "tsc",
+  "start": "node dist/index.js",
+  "sum": "node dist/sum.js",
+  "count": "node dist/countChar.js",
+  "prime": "node dist/isPrime.js",
+  "main": "node dist/main.js",
+  "lab3": "node dist/lab3b1.js",
+  "lab3b2": "node dist/lab3b2.js",
+  "lab2b3": "node dist/lab3b2.js"
+
+},
   "devDependencies": {
     "typescript": "^5.9.2"
   },
