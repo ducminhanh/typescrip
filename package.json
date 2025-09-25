@@ -12,7 +12,9 @@
   "main": "node dist/main.js",
   "lab3": "node dist/lab3b1.js",
   "lab3b2": "node dist/lab3b2.js",
-  "lab2b3": "node dist/lab3b2.js"
+  "lab2b1": "node dist/lab2/lab2b1.js",
+   "lab2b2": "node dist/lab2/lab2b2.js"
+
 
 },
   "devDependencies": {

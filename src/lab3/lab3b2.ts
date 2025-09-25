@@ -1,5 +1,5 @@
 
-let something: void = undefined;  
+let somethingg: void = undefined;  
 
 
 let nothing: never; 
